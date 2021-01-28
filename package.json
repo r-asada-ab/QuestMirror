@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^12.12.38",
-    "electron": "^8.2.5"
+    "electron": "^9.4.0"
   },
   "dependencies": {
     "extract-zip": "^2.0.0",
